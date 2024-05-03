@@ -3,6 +3,6 @@
 ################################################################################
 
 /.vs
+/DevCampExternalToolDemo/bin
 /DevCampExternalToolDemo/obj
-/DevCampExternalToolDemo/DevCampExternalToolDemo.csproj.user
-/DevCampExternalToolDemo/bin/Debug/net6.0-windows
+/DevCampExternalToolDemo/*.csproj.user
